@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   - Fixed a bug that the Python did not open web links correctly on a Opera web browser.
   - Improved the documentation on asyncio so that it can correctly reflect the actual implementation.
 - **[Arduino Core for STM32](https://github.com/stm32duino/Arduino_Core_STM32)**: ([link](https://github.com/stm32duino/Arduino_Core_STM32/pulls?q=kbumsik))
-  - Implemented [RPMsg Virtio](https://www.kernel.org/doc/Documentation/rpmsg.txt), an asymmetric multiprocessing (AMP) messaging bus, for [STM32MP157](https://www.st.com/en/microcontrollers-microprocessors/stm32mp157.html), ported to Arduino Core.
+  - Implemented RPMsg Virtio ([1](https://www.kernel.org/doc/Documentation/rpmsg.txt),[2](https://github.com/OpenAMP/open-amp)), an asymmetric multiprocessing (AMP) messaging bus, for [STM32MP157](https://www.st.com/en/microcontrollers-microprocessors/stm32mp157.html), ported to Arduino Core.
 - **[RIOT-OS](https://github.com/riot-os/riot/)**: ([link](https://github.com/RIOT-OS/RIOT/pulls?q=author%3Akbumsik))
   - Fixed various bugs of Microcontroler dirver. 
   - Developed the first Wi-Fi driver for the OS, connecting it to the TCP/IPv6 networking stack.
