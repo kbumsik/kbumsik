@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 
 ### Open Source Contributions
 
-- **Linux Kernel**: Documentation and code style fixes, merged in mainline ([link](https://patchwork.kernel.org/project/linux-watchdog/list/?submitter=191417&state=%2A&archive=both))
-- **Mozila Firefox**: Fixed the MediaRecorder API implementation to match the W3C spec, including correcting state error cases, adding missing event handler attributes, and writing corresponding test scripts. ([link](https://phabricator.services.mozilla.com/p/kbumsik/))
+- **Linux Kernel**: ([link](https://patchwork.kernel.org/project/linux-watchdog/list/?submitter=191417&state=%2A&archive=both))
+  - Documentation and code style fixes, merged in mainline.
+- **Mozila Firefox**: (link [1](https://phabricator.services.mozilla.com/D7910),[2](https://phabricator.services.mozilla.com/rMOZILLACENTRALf5577f9e95a96ac961f2b59fce89b09b6109efea),[3](https://phabricator.services.mozilla.com/p/kbumsik/))
+  - Fixed the [MediaRecorder API](https://www.w3.org/TR/mediastream-recording/#dom-mediarecorder-pause) implementation to match the W3C spec, including correcting state error cases, adding missing event handler attributes, and writing corresponding test scripts.
 - **Python (cpython)**: ([link](https://github.com/python/cpython/pulls?q=author%3Akbumsik))
   - Fixed a bug that the Python did not open web links correctly on a Opera web browser.
   - Improved the documentation on asyncio so that it can correctly reflect the actual implementation.
