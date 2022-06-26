@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 - **Python (cpython)**: ([link](https://github.com/python/cpython/pulls?q=author%3Akbumsik))
   - Fixed a bug that the Python did not open web links correctly on a Opera web browser.
   - Improved the documentation on asyncio so that it can correctly reflect the actual implementation.
+- **[Emscripten](https://github.com/emscripten-core/emscripten/issues?q=author%3Akbumsik)**:
+  - One of maintainers of [@types/emscripten](https://www.npmjs.com/package/@types/emscripten) package, Typescript definition for Emscripten. ([link](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/emscripten))
+  - Small bugfixes and typos ([link](https://github.com/emscripten-core/emscripten/issues?q=author%3Akbumsik))
 - **[Arduino Core for STM32](https://github.com/stm32duino/Arduino_Core_STM32)**: ([link](https://github.com/stm32duino/Arduino_Core_STM32/pulls?q=kbumsik))
   - Implemented RPMsg Virtio ([1](https://www.kernel.org/doc/Documentation/rpmsg.txt),[2](https://github.com/OpenAMP/open-amp)), an asymmetric multiprocessing (AMP) messaging bus, for [STM32MP157](https://www.st.com/en/microcontrollers-microprocessors/stm32mp157.html), ported to Arduino Core.
 - **[RIOT-OS](https://github.com/riot-os/riot/)**: ([link](https://github.com/RIOT-OS/RIOT/pulls?q=author%3Akbumsik))
